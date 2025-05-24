@@ -26,8 +26,9 @@ Um aplicativo iOS utilizando SwiftUI que apresente uma galeria de arte interativ
 - Swift 5.0+
 
 ## Desenvolvido por
-Francielly Pazello 
-
 - Eduardo Nicolosi de Oliveira
 - Francielly Pazello
 - Joao Pedro Brum Lisboa
+
+## Apresentação
+https://youtu.be/I2r_7DeTHJY
